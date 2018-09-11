@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535641240858.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "632789440",
+    "id" : "FB93FE27",
+    "lastKnownWriteTime" : 1535641251,
+    "last_content_update" : 1535641251344,
+    "path" : "~/R/violinplot/hnudge.R",
+    "project_path" : "hnudge.R",
+    "properties" : {
+        "cursorPosition" : "17,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

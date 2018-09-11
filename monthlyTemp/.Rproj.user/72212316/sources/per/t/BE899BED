@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535641214924.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4240049085",
+    "id" : "BE899BED",
+    "lastKnownWriteTime" : 1535641233,
+    "last_content_update" : 1535641233069,
+    "path" : "~/R/violinplot/ggtheme.R",
+    "project_path" : "ggtheme.R",
+    "properties" : {
+        "cursorPosition" : "83,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

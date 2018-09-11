@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535643564721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1171322448",
+    "id" : "D8C4E66",
+    "lastKnownWriteTime" : 1535697816,
+    "last_content_update" : 1535697816363,
+    "path" : "~/R/violinplot/temp_freiburg.R",
+    "project_path" : "temp_freiburg.R",
+    "properties" : {
+        "cursorPosition" : "55,1",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
